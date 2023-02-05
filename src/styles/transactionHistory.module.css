@@ -1,0 +1,24 @@
+.transaction-history{
+  height: 750px;
+  width: 550px;
+  text-align: center;
+  border: 3px lavender solid;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 3px 5px;
+}
+
+.thead {
+ background-color: cornflowerblue;
+  height: 50px;
+  font-size: 20px;
+  letter-spacing: 02px;
+  color: white;
+
+}
+
+.trow{
+  background-color: lavender;
+}
+.trow-secondary{
+  background-color: ghostwhite;
+
+}

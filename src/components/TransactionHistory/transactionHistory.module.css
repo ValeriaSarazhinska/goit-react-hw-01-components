@@ -1,4 +1,4 @@
-.transaction-history{
+.transactionHistory{
   height: 750px;
   width: 550px;
   text-align: center;
@@ -15,10 +15,7 @@
 
 }
 
-.trow{
-  background-color: lavender;
-}
-.trow-secondary{
+.trow:nth-child(even){
   background-color: ghostwhite;
-
 }
+

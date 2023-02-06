@@ -13,7 +13,7 @@
   font-size: 25px;
 }
 
-.stat-list {
+.statList {
   justify-content: space-around;
   display: flex;
   background-color: ghostwhite;
